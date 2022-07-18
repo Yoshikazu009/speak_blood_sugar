@@ -13,7 +13,19 @@ pythonisata3で下記のファイルを「iCloud/speak_blood_sugar」にイン�
 - speak_blood_sugar.py
 - nightscout_api.py
 ### ショートカット作成
+pythonisata3でスクリプトの実行URLを取得する。
+
+
+
 iOSでショートカット「血糖値を教えて」を作成する。
+
+![血糖値を教えて](https://user-images.githubusercontent.com/108761384/179632536-b2fb3575-733a-4ffc-b9a7-63e0f1acc33a.png)
+
+- タイトルを「血糖値を教えて」と定義する。Siriがタイトルを音声認識してスクリプトを実行する。
+- WEBを選択して「pythonista3://iCloud/speak_blood_sugar/speak_blood_sugar.py?action=run」を開くを定義する。
+
+
+
 ## 開発来歴
 - 2022.07.18 新規開発　たかしま・よしかず
 ## ライセンス
