@@ -13,11 +13,12 @@ pythonisata3で下記のファイルを「iCloud/speak_blood_sugar」にイン�
 - speak_blood_sugar.py
 - nightscout_api.py
 ### ショートカット作成
-pythonisata3でスクリプトの実行URLを取得する。
+
+#### pythonisata3でスクリプトの実行URLを取得する。
 
 
 
-iOSでショートカット「血糖値を教えて」を作成する。
+#### iOSでショートカット「血糖値を教えて」を作成する。
 
 ![血糖値を教えて](https://user-images.githubusercontent.com/108761384/179632536-b2fb3575-733a-4ffc-b9a7-63e0f1acc33a.png)
 
