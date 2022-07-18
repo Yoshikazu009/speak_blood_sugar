@@ -16,7 +16,7 @@ pythonisata3で下記のファイルを「iCloud/speak_blood_sugar」にイン�
 
 #### pythonisata3でスクリプトの実行URLを取得する。
 
-![ショートカットからURLを取得)(https://user-images.githubusercontent.com/108761384/179634718-3373481f-3b86-4ee1-9f2e-d3d761c42bb8.png)
+![ショートカットからURLを取得](https://user-images.githubusercontent.com/108761384/179634718-3373481f-3b86-4ee1-9f2e-d3d761c42bb8.png)
 
 
 
