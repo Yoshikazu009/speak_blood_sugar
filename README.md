@@ -16,7 +16,7 @@ pythonista3で下記のファイルを「iCloud/speak_blood_sugar」にインポ
 ### ショートカット作成
 
 iOSのショートカットを作成することで、Siriが音声認識で「血糖値を教えて」を認識して、対応するpythonista3スクリプトを実行することができる。
-pythonista3u
+pythonista3スクリプトはsafariからURLを開くことで実行される。
 
 #### pythonisata3でスクリプトの実行URLを取得する。
 
