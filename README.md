@@ -12,7 +12,10 @@
 pythonista3で下記のファイルを「iCloud/speak_blood_sugar」にインポートする。
 - speak_blood_sugar.py
 - nightscout_api.py
-- 
+
+### コード修正
+ファイル「speak_blood_sugar.py」のインスタンス変数api.urlに利用しているnightscoutのURLを設定する。
+
 ### ショートカット作成
 
 iOSのショートカットを作成することで、Siriが音声認識で「血糖値を教えて」を認識して、対応するpythonista3スクリプトを実行することができる。
